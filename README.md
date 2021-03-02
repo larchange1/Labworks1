@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<!-- saved from url=(0075)file:///C:/_MISM3320/StudentFilesUpdate/StudentFiles/chapter2/template.html -->
+<head>
+    <body>
+    <!-- saved from url=(0075)file:///C:/_MISM3320/StudentFilesUpdate/StudentFiles/chapter2/template.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title> www.HYSproject.com</title>
 
 </head>
-<body>
+</body>
     
    <h1><p style="text-align:center;"> Hie Y. Simon</p></h1>
    <p color="background-color: blue;"></p>
