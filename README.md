@@ -260,3 +260,48 @@ footer { font-size:70%;
 </html>
 
 
+body {
+background-color : rgb(190, 240, 255);
+}
+h1 {
+color : green;
+text-align : center;
+}
+p {
+font-family : verdana;
+font-size : 20px;
+}
+body {
+background-image : url("img_tree.gif"), url("paper.gif");
+}
+div.gallery {
+margin : 5px;
+border : rgb(209, 209, 209) solid 1px;
+float : left;
+width : 180px;
+}
+div.gallery:hover {
+border : rgb(110, 110, 110) solid 1px;
+}
+div.gallery img {
+width : 100%;
+height : auto;
+}
+div.desc {
+padding : 15px;
+text-align : center;
+}
+h1 {
+color : rgb(3, 97, 39);
+font-family : Arial, Helvetica, sans-serif;
+font-size : 300%;
+}
+p {
+color : rgb(0, 2, 0);
+font-family : courier;
+font-size : 160%;
+}
+p {
+text-align : center;
+color : rgb(255, 0, 0);
+}
