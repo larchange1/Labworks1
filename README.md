@@ -7,15 +7,19 @@
   box-sizing: border-box;
 }
 
-.row {
-  display: flex;
-}
-
-/* Create two equal columns that sits next to each other */
+/* Create two equal columns that floats next to each other */
 .column {
-  flex: 50%;
+  float: left;
+  width: 50%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 </style>
 </head>
